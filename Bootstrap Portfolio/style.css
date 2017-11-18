@@ -1,0 +1,86 @@
+body {
+	margin-left: 200px;
+	margin-right: 200px;
+	min-width: 640px;
+	background-color: #f2f1ed;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#current {
+	color: black;
+	font-weight: 600;
+}
+
+#projectList {
+	list-style: none;
+	padding: 0;
+	background-color: ;
+	padding-left: 16px;
+	color: #525453;
+
+}
+
+
+#message {
+	height: 150px;
+	width: 150px;
+}
+
+.page-header {
+	border-bottom: 3px solid black;
+	color: #242321;
+}
+
+#tester {
+	border-top: 2px solid #525453;
+}
+
+p {
+	color: #525453;
+}
+
+h2 {
+	color: #00adef;
+}
+
+.index-pic {
+	float: left;
+	padding-right: 10px;
+}
+
+#inactive {
+	color: #dd3e74;
+	font-weight: bold;
+}
+
+#port2 {
+	color: #525453;
+}
+
+#port1 {
+	color: #525453;
+}
+
+.btn-primary {
+	background-color: #dd3e74;
+	border-color: #dd3e74;
+}
+
+form {
+	color: #525453;
+}
+
+h4 {
+	padding-left: 16px;
+	font-weight: bold;	
+}
+
+.lifont {
+	color: #525453;
+}
+
+#personal {
+	height: 200px;
+	float: left;
+	padding-right: 5px;
+}
