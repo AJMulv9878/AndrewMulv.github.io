@@ -36,7 +36,7 @@ database.ref().on("value", function(snapshot) {
 	highBidder = snapshot.val().bidder;
 	highPrice = snapshot.val().bid;
 	$('#highest-bidder').text(highBidder);
-	$('#highest-price').text(highPrice);
+	$('#highest-price').text("$" + highPrice);
 }
 else {
 	database.ref().set({
